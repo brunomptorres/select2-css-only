@@ -1,10 +1,6 @@
 {
   "name": "select2-css-only",
-  "main": [
-    "style/select2.css",
-    "images/select2.png",
-    "images/select2x2.png",
-    "images/select2-spinner.gif"],
+  "main": "select2.css",
   "authors": [
     "Bruno Torres <brunomptorres@gmail.com>"
   ],
@@ -21,6 +17,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {}
+  ]
 }
