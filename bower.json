@@ -1,6 +1,6 @@
 {
   "name": "select2-css-only",
-  "main": "select2.css",
+  "main": "style/select2.css",
   "authors": [
     "Bruno Torres <brunomptorres@gmail.com>"
   ],
