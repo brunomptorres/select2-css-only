@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": [
     "style/select2.css",
-    "style/images/select2.png",
-    "style/images/select2x2.png",
-    "style/images/select2-spinner.gif"],
+    "images/select2.png",
+    "images/select2x2.png",
+    "images/select2-spinner.gif"],
   "authors": [
     "Bruno Torres <brunomptorres@gmail.com>"
   ],
